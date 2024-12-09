@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./C:\Users\Marcos Rogato\OneDrive\Imagens\Capturas de tela\Teste.png "Optional title")
+![Alt text](.\Teste.png "Optional title")
